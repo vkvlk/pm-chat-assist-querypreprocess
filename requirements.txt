@@ -1,0 +1,22 @@
+# Core dependencies
+pandas>=2.0.0
+openpyxl>=3.1.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+streamlit>=1.28.0
+instructor>=0.4.0
+
+# LLM and API
+openai>=1.6.0  # Required for instructor integration
+openrouter>=0.3.0
+python-dotenv>=1.0.0
+
+# Date handling
+python-dateutil>=2.8.2
+holidays>=0.34
+
+# Visualization
+plotly>=5.18.0
+
+# Excel handling
+xlrd>=2.0.1  # For older Excel files support
