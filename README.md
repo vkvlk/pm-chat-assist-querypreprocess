@@ -15,7 +15,7 @@ This project is a Streamlit-based web application designed to analyze MS Project
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/pm-chat-assist-querypreprocess.git
+   git clone https://github.com/vkvlk/pm-chat-assist-querypreprocess.git
    cd pm-chat-assist-querypreprocess
    ```
 
